@@ -1,5 +1,6 @@
 # Frontend Mentor - Stats preview card component
 
+# Link [Click here](https://dishanttayade.github.io/frontendmentor-statspreviewcardscomponent/)
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
