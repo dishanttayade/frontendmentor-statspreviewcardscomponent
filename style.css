@@ -92,7 +92,7 @@ body{
     mix-blend-mode: color-burn;
   }
 }
-@media only screen and (max-width:480px){
+@media only screen and (max-width:625px){
     .container{
         display: flex;
         flex-direction: column-reverse;
